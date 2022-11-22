@@ -1,0 +1,1 @@
+Esta carpeta sólo contiene imágenes usadas en los documentos. Puedes verlas aquí, pero te va a faltar contexto
