@@ -1,10 +1,10 @@
 ## Cambios realizados
-- Se ha eliminado el directorio para PDFs y se le ha cambiado el nombre a la versión markdown por ["docs"](/docs/)
+- Se ha eliminado el directorio para PDFs y se le ha cambiado el nombre a la versión markdown por "[docs](/docs/)"
 - Cambiado "add-resources" por "resources"
 - Enlaces parcheados
 - Árbol de navegación eliminado (Puede que vuelva)
 
-## Documentación
+## Descripción
 Apuntes ordenados por el temario de sistemas microinformáticos y redes, un grado medio de informática
 
 ## Cómo usarlos
