@@ -4,7 +4,7 @@
 3. Vete al escritorio, carpeta nueva, llámala ad
 4. Entra y pega todo
 5. En el escritorio click derecho y abrir en terminal
-6. `sudo chmod 777 ad/*`
+6. `sudo chmod 775 ad/*`
 7. `cd ad`
 8. `sudo ./VBoxLinuxAdditions.run`
 9. `sudo apt install gcc -y`
