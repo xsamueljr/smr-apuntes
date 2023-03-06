@@ -43,3 +43,12 @@ P.Orfandad = $\frac{48\% BR}{NºH}$
 | De 1800 a 1979 | 600 |
 | De 1980 a 2159 | 660 |
 | Desde 2160 | 720 |
+
+## Actividades
+7. IT por EC de 2/10 a 9/10 (8 días)
+
+BR = $\frac{BCCma}{30} = \frac{1.348}{30} = 44,93$€ / día
+
+Subsidio: 
+- 3 primeros días = 0
+- Del 4º al 8º = 60% BR * 5 = 60% de 44,93 * 5 = 134,79€
